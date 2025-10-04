@@ -1,5 +1,3 @@
-
-```markdown
 # AIRL Internship Coding Assignment
 
 This repository contains solutions for the AIRL internship coding assignment, implementing two computer vision tasks using state-of-the-art deep learning models.
@@ -7,10 +5,12 @@ This repository contains solutions for the AIRL internship coding assignment, im
 ## 📁 Repository Structure
 
 ```
+
 AIRL_Internship_Assignment/
 ├── q1.ipynb                 # Vision Transformer on CIFAR-10
 ├── q2.ipynb                 # Text-Driven Image Segmentation with SAM 2 with Video segmention as bonus
 └── README.md               # This file
+
 ```
 
 ## 🚀 Quick Start
